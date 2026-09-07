@@ -16,7 +16,7 @@ module.exports = {
   // Atau Fine-grained → Repository access: ellv-cpu/ellnichollv
   //   Permissions: Contents (Read and write), Actions (Read and write), Metadata (Read)
   // Token lama sudah INVALID (401 Bad credentials) → ganti sekarang!
-  GITHUB_TOKEN: "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",
+  GITHUB_TOKEN: "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",
   GITHUB_USERNAME: "ellv-cpu",
   GITHUB_REPO: "ellnichollv",
 
